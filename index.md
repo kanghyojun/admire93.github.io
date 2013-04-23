@@ -1,7 +1,7 @@
 ---
   layout: default
   title: admire, kanghyojun
-  project.title: Kang Hyojun (admire)
+  projectTitle: Kang Hyojun (admire)
 ---
 
 # hello
