@@ -9,4 +9,4 @@
 
 Welcome, My name is a Hyojun, Kang.
 i am a Web programmer who live in Seoul, Korea.
-if you cannot read korean, you could see english version of this page at [here](http://admire.kr/en).
+if you cannot read korean, you could see english version of this page in [here](http://admire.kr/en).
