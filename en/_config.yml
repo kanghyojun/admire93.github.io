@@ -1,5 +1,0 @@
-safe: true
-lsi: true
-pygments: true
-destination: ./_site/en
-baseurl: /en
