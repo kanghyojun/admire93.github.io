@@ -14,7 +14,7 @@ title: Kang Hyojun
 - 🔑 [Keybase](https://keybase.io/kanghyojun)
 - 🎶 [last.fm](https://www.last.fm/user/admire93)
 - 👍 ☕️ 💻 🐔🎶
-  - I love a cup of brewed coffee and chicken.
+  - I love drinking a cup of brewed coffee and eating chicken.
   - I really like writing open source software while listening music.
   - I am a [Neovimmer](https://neovim.io/).
 
