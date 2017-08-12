@@ -397,8 +397,7 @@ Small Device Styles
 
 }
 
-
-body {
+.wrapper {
   width: 768px;
   margin: 0 auto;
 }
