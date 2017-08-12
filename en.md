@@ -1,9 +1,7 @@
-<link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css' rel='stylesheet' type='text/css'>
-<link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-jp.css' rel='stylesheet' type='text/css'>
-
-<style type="text/css">
-* { font-family: 'Spoqa Han Sans', 'Sans-serif'; }
-</style>
+---
+layout: default
+title: Kang Hyojun
+---
 
 # Kang Hyojun
 
