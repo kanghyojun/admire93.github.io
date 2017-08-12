@@ -7,7 +7,7 @@
 
 # 강효준 Kang Hyojun
 
-[EN](/en.html)
+[english](/en.html)
 
 ![profile image](https://www.gravatar.com/avatar/ee4682832933a275e641ebc07b253599?s=180)
 
