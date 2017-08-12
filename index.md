@@ -1,12 +1,28 @@
----
-  layout: default
-  title: admire, kanghyojun
----
+<link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css' rel='stylesheet' type='text/css'>
+<link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-jp.css' rel='stylesheet' type='text/css'>
 
-### Hello, 안녕하세요!
+<style type="text/css">
+* { font-family: 'Spoqa Han Sans', 'Sans-serif'; }
+</style>
 
-반갑습니다. 저는 강효준이고, 서울에 살고 있는 웹 프로그래머입니다 :)
+# 강효준 Kang Hyojun
 
-Welcome, My name is a Hyojun, Kang.
-i am a Web programmer who live in Seoul, Korea.
-if you cannot read Hangul, you could see english version of this page in [here](http://admire.kr/en).
+![profile image](https://www.gravatar.com/avatar/ee4682832933a275e641ebc07b253599?s=180)
+
+- ✉️  iam.kanghyojun (dot) gmail (dot) com
+- 💻 [Github](https://github.com/admire93)
+- 🔑 [Keybase](https://keybase.io/kanghyojun)
+- 🎶 [last.fm](https://www.last.fm/user/admire93)
+- 👍 ☕️ 💻 🐔🎶
+  - 커피와 치킨을 좋아합니다.
+  - 음악을 들으며 오픈 소스 코딩 하는 것을 즐깁니다.
+
+현재 [스포카](https://spoqa.com)에서 일하고 있습니다.
+
+
+## 오픈 소스 프로젝트
+
+- [Nirum](https://github.com/spoqa/nirum) — 마이크로서비스를 위한 IDL,
+  RPC 프레임워크
+- [dodotable](https://github.com/spoqa/dodotable) — SQLAlchemy을
+  HTML 테이블로 보여주는 라이브러리
