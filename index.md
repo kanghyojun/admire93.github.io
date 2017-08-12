@@ -5,7 +5,7 @@ title: Kang Hyojun
 
 # 강효준 Kang Hyojun
 
-[english](/en.html)
+[English](/en.html)
 
 ![profile image](https://www.gravatar.com/avatar/ee4682832933a275e641ebc07b253599?s=180)
 
