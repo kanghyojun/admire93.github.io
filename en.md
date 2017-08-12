@@ -5,9 +5,9 @@
 * { font-family: 'Spoqa Han Sans', 'Sans-serif'; }
 </style>
 
-# 강효준 Kang Hyojun
+# Kang Hyojun
 
-[EN](/en.html)
+[KO](/)
 
 ![profile image](https://www.gravatar.com/avatar/ee4682832933a275e641ebc07b253599?s=180)
 
@@ -16,15 +16,15 @@
 - 🔑 [Keybase](https://keybase.io/kanghyojun)
 - 🎶 [last.fm](https://www.last.fm/user/admire93)
 - 👍 ☕️ 💻 🐔🎶
-  - 커피와 치킨을 좋아합니다.
-  - 음악을 들으며 오픈 소스 코딩 하는 것을 즐깁니다.
+  - I love a cup of brewed coffee and chicken.
+  - I really like writing open source software while listening music.
 
-현재 [스포카](https://spoqa.com)에서 일하고 있습니다.
+I'm currently working for [Spoqa](https://spoqa.com).
 
 
 ## 오픈 소스 프로젝트
 
-- [Nirum](https://github.com/spoqa/nirum) — 마이크로서비스를 위한 IDL,
-  RPC 프레임워크
-- [dodotable](https://github.com/spoqa/dodotable) — SQLAlchemy을
-  HTML 테이블로 보여주는 라이브러리
+- [Nirum](https://github.com/spoqa/nirum) — IDL and RPC framework
+  for Microservice.
+- [dodotable](https://github.com/spoqa/dodotable) — HTML table representation
+  for SQLAlchemy.
