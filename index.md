@@ -16,6 +16,7 @@ title: Kang Hyojun
 - 👍 ☕️ 💻 🐔🎶
   - 커피와 치킨을 좋아합니다.
   - 음악을 들으며 오픈 소스 코딩 하는 것을 즐깁니다.
+  - [Neovimmer](https://neovim.io/)입니다.
 
 현재 [스포카](https://spoqa.com)에서 일하고 있습니다.
 

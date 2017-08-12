@@ -16,6 +16,7 @@ title: Kang Hyojun
 - 👍 ☕️ 💻 🐔🎶
   - I love a cup of brewed coffee and chicken.
   - I really like writing open source software while listening music.
+  - I am a [Neovimmer](https://neovim.io/).
 
 I'm currently working for [Spoqa](https://spoqa.com).
 
