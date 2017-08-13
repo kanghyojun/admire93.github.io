@@ -18,7 +18,7 @@ title: Kang Hyojun
   - 음악을 들으며 오픈 소스 코딩 하는 것을 즐깁니다.
   - [Neovimmer](https://neovim.io/)입니다.
 
-현재 [스포카](https://spoqa.com)에서 일하고 있습니다.
+현재 [스포카](https://www.spoqa.com/)에서 일하고 있습니다.
 
 
 ## 오픈 소스 프로젝트

@@ -18,7 +18,7 @@ title: Kang Hyojun
   - I really like writing open source software while listening music.
   - I am a [Neovimmer](https://neovim.io/).
 
-I'm currently working for [Spoqa](https://spoqa.com).
+I'm currently working for [Spoqa](https://www.spoqa.com/).
 
 
 ## 오픈 소스 프로젝트
