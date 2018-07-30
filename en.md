@@ -10,7 +10,7 @@ title: Kang Hyojun
 ![profile image](https://www.gravatar.com/avatar/ee4682832933a275e641ebc07b253599?s=180)
 
 - ✉️  iam.kanghyojun (at) gmail (dot) com
-- 💻 [Github](https://github.com/admire93)
+- 💻 [GitHub](https://github.com/admire93)
 - 🔑 [Keybase](https://keybase.io/kanghyojun)
 - 🎶 [last.fm](https://www.last.fm/user/admire93)
 - 👍 ☕️ 💻 🐔🎶
@@ -21,9 +21,11 @@ title: Kang Hyojun
 I'm currently working for [Spoqa](https://www.spoqa.com/).
 
 
-## 오픈 소스 프로젝트
+## Open Source Projects
 
-- [Nirum](https://github.com/spoqa/nirum) — IDL and RPC framework
-  for Microservice.
-- [dodotable](https://github.com/spoqa/dodotable) — HTML table representation
-  for SQLAlchemy.
+<dl>
+  <dt><a href="https://nirum.org">Nirum</a></dt>
+  <dd>IDL and RPC framework for Microservice.</dd>
+  <dt><a href="https://github.com/spoqa/dodotable">dodotable</a></dt>
+  <dd>HTML table representation for SQLAlchemy.</dd>
+</dl>
