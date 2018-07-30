@@ -23,7 +23,9 @@ title: Kang Hyojun
 
 ## 오픈 소스 프로젝트
 
-- [Nirum](https://github.com/spoqa/nirum) — 마이크로서비스를 위한 IDL,
-  RPC 프레임워크
-- [dodotable](https://github.com/spoqa/dodotable) — SQLAlchemy을
-  HTML 테이블로 보여주는 라이브러리
+<dl>
+  <dt>[Nirum](https://github.com/spoqa/nirum)</dt>
+  <dd>마이크로서비스를 위한 IDL, RPC 프레임워크</dd>
+  <dt>[dodotable](https://github.com/spoqa/dodotable)</dt>
+  <dd>SQLAlchemy을 HTML 테이블로 보여주는 라이브러리</dd>
+</dl>
