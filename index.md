@@ -10,7 +10,7 @@ title: Kang Hyojun
 ![profile image](https://www.gravatar.com/avatar/ee4682832933a275e641ebc07b253599?s=180)
 
 - ✉️  iam.kanghyojun (at) gmail (dot) com
-- 💻 [Github](https://github.com/admire93)
+- 💻 [GitHub](https://github.com/admire93)
 - 🔑 [Keybase](https://keybase.io/kanghyojun)
 - 🎶 [last.fm](https://www.last.fm/user/admire93)
 - 👍 ☕️ 💻 🐔🎶
