@@ -50,3 +50,14 @@ title: Kang Hyojun
   <dt><a href="https://github.com/Blizzard/s2protocol/">s2protocol</a></dt>
   <dd>블리자드에서 제공하는 스타크래프트2 리플레이 분석 라이브러리</dd>
 </dl>
+
+
+## 발표 및 활동
+
+- 스포카 컨퍼런스 발표: [좌충우돌 도도 포인트 운영기](https://www.slideshare.net/kanghyojun/ss-188824493)
+- 파이콘 한국 2019 라이트닝 토크: [테스트 미신](https://docs.google.com/presentation/d/19tGPfRmH27uG0ClecJO0tiLMYOFwGxcaYx6Hxdf2aaU/edit#slide=id.p)
+- 파이콘 한국 2018 스프린트: [니름: 마이크로서비스 개발을 위한 IDL (인터페이스 정의 언어) 컴파일러 및 RPC (원격 프로시져 호출) / 분산 객체 프레임워크 ](https://archive.pycon.kr/2018/program/sprint/2)
+- 파이콘 한국 2018 발표: [나도 할 수 있다 오픈 소스! — setup.py에서 PyPI까지](https://www.slideshare.net/kanghyojun/ss-110767619)
+- 파이콘 한국 2017 발표: [니름: 쉬운 SOA 단위 테스트](https://www.slideshare.net/kanghyojun/soa-78799290)
+- 파이콘 한국 2017 스프린트: [니름: 마이크로서비스 개발을 위한 IDL (인터페이스 정의 언어) 컴파일러 및 RPC (원격 프로시져 호출) / 분산 객체 프레임워크 ](https://archive.pycon.kr/2017/program/sprint/8)
+- 파이콘 한국 2016 라이트닝 토크: [스포카와 오픈소스, 2016 PyCon APAC](https://github.com/kanghyojun/2016-pycon-lightning-talk)
