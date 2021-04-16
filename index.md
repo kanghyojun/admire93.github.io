@@ -17,7 +17,7 @@ title: Kang Hyojun
   - [Neovimmer](https://github.com/kanghyojun/nvimrc)입니다.
 - [Résumé](https://resume.kanghyojun.org/)
 
-현재 [스포카](https://www.spoqa.com/)에서 일하고 있습니다.
+현재 [쿼리 딜리버리](https://run.query.delivery/)에서 공동 창업자로 일하고 있습니다.
 
 
 ## 오픈 소스 프로젝트
