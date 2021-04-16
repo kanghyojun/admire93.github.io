@@ -18,7 +18,7 @@ title: Kang Hyojun
   - I really like writing open source software while listening music.
   - I am a [Neovimmer](https://github.com/kanghyojun/nvimrc).
 
-I'm currently working for [Spoqa](https://www.spoqa.com/).
+I'm the co-founder of [Query Delivery](https://run.query.delivery/).
 
 
 ## Open Source Projects
